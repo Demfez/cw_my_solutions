@@ -10,6 +10,7 @@
 <body>
     <ul>
         <li><a href="persistentBugger.php">Persistent Bugger</a></li>
+        <li><a href="sum_of_positive.php">Sum of positive</a></li>
     </ul>
 </body>
 </html>
